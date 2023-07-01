@@ -2,6 +2,8 @@
 
 This project is a small simulation of a cash system to help calculate the contents of the cash register
 
+![main](img.png)
+
 ## Technologies
 - Vite
 - Vue3
@@ -29,3 +31,6 @@ npm run preview
 
 This will create a dist folder with the built files and spin up a webserver.
 
+## License
+
+TeamChat is licensed under the [MIT License](https://opensource.org/license/mit/).
