@@ -12,7 +12,7 @@ This project is a small simulation of a cash system to help calculate the conten
 First, clone this repository:
 
 ```sh
-git clone https://github.com/soeguet/cash-system.git
+git clone https://github.com/soeguet/cash-system
 ```
 Then, navigate into the project folder and install the dependencies:
 
@@ -24,7 +24,8 @@ To build the project for production, run:
 
 ```sh
 npm run build
+npm run preview
 ```
 
-This will create a dist folder with the built files.
+This will create a dist folder with the built files and spin up a webserver.
 
